@@ -1,4 +1,4 @@
-# Site_Connection_Checker
+# Site Connection Checker
 Checks which devices (if any) are connected to the network on a subnet
 <br>
 <br>; Version   Date        Author       Comments
